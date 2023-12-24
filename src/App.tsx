@@ -1,7 +1,5 @@
 import { Grid, GridItem, Show } from "@chakra-ui/react";
 import NavBar from "./components/NavBar";
-import axios from "axios";
-import { useEffect } from "react";
 import GameGrid from "./components/GameGrid";
 
 const App = () => {
